@@ -1,6 +1,6 @@
 # Filabiz
 
-![Filabiz Logo](./docs/assets/logo.png)
+![Filabiz Logo](logo.png)
 
 ## 🌐 Visão Geral
 
